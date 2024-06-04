@@ -1,1 +1,1 @@
-Here you will find my solutions for the homeworks for the OOP course at FMI.
+Here you will find my homework solutions for the OOP course at FMI.
